@@ -1,0 +1,58 @@
+baseURL = 'https://yostwest.com/'
+languageCode = 'en-us'
+title = 'yost west'
+theme = 'hugo-classic'
+
+
+enableEmoji = true
+enableRobotsTXT = true
+
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+publishDir = "docs"
+
+footnotereturnlinkcontents = "↩"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]      
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 2
+
+[[menu.feed]]
+name = "rss"
+url = "/index.xml"
+weight = 1
+
+[[menu.main]]
+name = "Writing"
+url = "/categories/writing/"
+weight = 2
+
+[[menu.main]]
+name = "Music"
+url = "/categories/songs/"
+weight = 3
+
+[[menu.feed]]
+name = "GitHub"
+url = "https://github.com/yostwest"
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "Thoughts from the deep."
+footer = "<< Be Excellent to Each Other >>"
