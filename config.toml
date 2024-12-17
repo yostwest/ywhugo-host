@@ -1,11 +1,15 @@
-baseurl = "https://yostwest.com/"
+baseurl = "yostwest.com"
+relativeURLs = true
 enableEmoji = true
-footnotereturnlinkcontents = "↩"
-googleAnalytics = ""
+enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 languageCode = "en-us"
+preserveTaxonomyNames = true
+
 theme = "hugo-classic"
-title = "Classic"
+title = "goodroot"
+
+footnotereturnlinkcontents = "↩"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -21,24 +25,31 @@ lineNos = false
 lineNumbersInTable = true
 noClasses = true
 style = "monokai"
-tabWidth = 4
+tabWidth = 2
+
+[[menu.feed]]
+name = "rss"
+url = "/index.xml"
+weight = 1
+
+[[menu.main]]
+name = "Writing"
+url = "/categories/writing/"
+weight = 2
+
+[[menu.main]]
+name = "Music"
+url = "/categories/songs/"
+weight = 3
+
+[[menu.feed]]
+name = "GitHub"
+url = "https://github.com/goodroot"
 
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
 
-[[menu.main]]
-name = "Categories"
-url = "/categories/"
-weight = 1
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 2
-[[menu.feed]]
-name = "Subscribe"
-url = "/index.xml"
-
 [params]
 custom_css = ["css/theme-override.css"]
-description = "A simple, minimal blog for those who love text."
-footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+description = "Thoughts from the deep."
+footer = "<< Be Excellent to Each Other >>"
