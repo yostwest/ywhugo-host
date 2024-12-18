@@ -1,0 +1,27 @@
+name: Deploy public to Hostinger
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Filter files (only 'public' folder)
+      run: |
+        mkdir filtered_files
+        cp -r public/* filtered_files/
+
+    - name: Deploy to FTP (Hostinger)
+      uses: SamKirkland/FTP-Deploy-Action@v4
+      with:
+        server: ftp://ftp.tudominio.com
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: filtered_files

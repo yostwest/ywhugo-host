@@ -3,19 +3,23 @@ title: Home
 description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
 ---
 <img
-  id="foxy"
-  src="/images/grayf0x.jpg"
-  alt="A foxy face">
+  id="pfpindex"
+  src="/images/pfpindex.jpg"
+  alt="Me quemo pe causita">
 
-## Welcome, friend
+## *Bienvenido a yostwest.com* 
+###### Una parte de mi ser. :)
+![;](https://www.gifsanimados.org/data/media/99/mini-gif-imagen-animada-1619.gif)
 
-### :purple_heart: :earth_africa: :purple_heart:
+:spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:  :clubs: :spades:  :hearts:  :diamonds:
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+En la paz de mi espacio. [aparece](https://www.youtube.com/watch?v=eABjL-VFy4Y&pp=ygUPaG9zdCBvZiBhIGdob3N0), **YOST** - como me conoce la mayoria por practicidad y amor .
 
-Their greatest joys are darkness and its quietudes.
+Quiero llevar un simple recuento de lo que escribo, lo que siento.
 
-<img src="/images/partywizard.gif">
+-YW
+
+<img src="/images/retro90.gif">
 
 ---
 

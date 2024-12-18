@@ -1,4 +1,4 @@
-baseurl = "yostwest.com"
+baseurl = "https://yostwest.com/"
 relativeURLs = true
 enableEmoji = true
 enableRobotsTXT = true
@@ -7,7 +7,7 @@ languageCode = "en-us"
 preserveTaxonomyNames = true
 
 theme = "hugo-classic"
-title = "goodroot"
+title = "yostwest"
 
 footnotereturnlinkcontents = "↩"
 
@@ -33,18 +33,19 @@ url = "/index.xml"
 weight = 1
 
 [[menu.main]]
-name = "Writing"
-url = "/categories/writing/"
+identifier = "mi-mente"
+name = "Mi mente"
+url = "/categoria/cabeza/mi-mente/"
 weight = 2
 
 [[menu.main]]
-name = "Music"
-url = "/categories/songs/"
+name = "Rolitas"
+url = "/categoria/rolitas/rolitas/"
 weight = 3
 
 [[menu.feed]]
 name = "GitHub"
-url = "https://github.com/goodroot"
+url = "https://github.com/yostwest"
 
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
