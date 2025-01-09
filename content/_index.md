@@ -1,6 +1,6 @@
 ---
 title: Home
-description: "The personal writings and expressions of Grayfox, otherwise known as you too and everyone else. It is a loving and silly place."
+description: "Somos parte de un total. Aquí recae lo que siento, lo que pienso, lo que amo, lo que veo."
 ---
 <img
   id="pfpindex"

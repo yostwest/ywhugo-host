@@ -13,7 +13,7 @@ Hola mi niña hermosa, mi sol y estrellas. En esta taciturna velada, me dirijo a
 
 Tienes que saber que encuentro una decepción enorme hacia mi persona, ya que solo como excusa la navidad se presentó para darle una base escrita al cumulo de ideas que manifiesto mi amada, las cuales culminan por encandilarme cada noche, aunque su presencia no se encuentre aquí.
 
-Usted ante la bella luna es consciente donde los días donde aún la distancia, optamos por encontrarnos y permear en nuestra individualidad, siempre recordando la característica ilusoria de tu pertenencia sobre todo lo que me conforma [^1].
+Usted ante la bella luna es consciente donde los días donde aún la distancia, optamos por encontrarnos y permear en nuestra individualidad, siempre recordando la característica ilusoria de tu pertenencia sobre todo lo que me conforma[^1].
 
 No te voy a mentir, también reboso de felicidad, porque durante 24 días, la mujer más bella que ha presenciado este mundo en su extenso y basto espacio, recibirá a la distancia 24 escritos vinculados a su divinidad femenina.
 
