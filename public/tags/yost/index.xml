@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yost on yostwest</title>
-    <link>https://yostwest.com/tags/yost/</link>
+    <link>http://localhost:63637/tags/yost/</link>
     <description>Recent content in Yost on yostwest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2024 14:36:49 -0600</lastBuildDate>
-    <atom:link href="https://yostwest.com/tags/yost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63637/tags/yost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fácil, un segundo.</title>
-      <link>https://yostwest.com/post/2024/12/18/un-segundo/</link>
+      <link>http://localhost:63637/post/2024/12/18/un-segundo/</link>
       <pubDate>Wed, 18 Dec 2024 14:36:49 -0600</pubDate>
-      <guid>https://yostwest.com/post/2024/12/18/un-segundo/</guid>
+      <guid>http://localhost:63637/post/2024/12/18/un-segundo/</guid>
       <description>&lt;h3 id=&#34;fácil-un-segundo&#34;&gt;Fácil, un segundo.&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 id=&#34;el-tiempo-nuestra-némesis-como-factor-irremplazable-que-no-meta-sus-narices-en-el-amor-que-damos-el-amor-que-recibimos-si-no-le-hemos-hablado&#34;&gt;&amp;ldquo;El tiempo, nuestra némesis como factor irremplazable&amp;hellip; que no meta sus narices en el amor que damos, el amor que recibimos, si no le hemos hablado.&amp;rdquo;&lt;/h4&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A veces creo que no se decir no, la sensación de mi ser con el suelo es más ligera que de costumbre, de verdad me es complicado delimitar todo lo que influye en mi día a día, mayoritariamente porque creo yo que cada día aprendo algo nuevo y nunca doy por sentado ninguna cuestión que crea dominar.&lt;/p&gt;</description>
     </item>
   </channel>

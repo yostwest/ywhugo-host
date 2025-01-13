@@ -2,64 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yostwest.com/post/2025/01/09/180/</loc>
+    <loc>http://localhost:63637/categories/cartas/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/categories/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/tags/los24/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/tags/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/13/vientos-p.2/</loc>
+    <lastmod>2025-01-13T12:31:21-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/13/vientos-p.1/</loc>
+    <lastmod>2025-01-13T12:31:15-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/13/reflejo/</loc>
+    <lastmod>2025-01-13T11:22:22-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/13/compa%C3%B1eros/</loc>
+    <lastmod>2025-01-13T11:22:16-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/13/transtorno/</loc>
+    <lastmod>2025-01-13T11:22:09-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63637/post/2025/01/09/180/</loc>
     <lastmod>2025-01-09T13:47:16-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/categories/cartas/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/categories/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/tags/los24/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/post/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/tags/</loc>
-    <lastmod>2025-01-09T13:47:16-06:00</lastmod>
-  </url><url>
-    <loc>https://yostwest.com/post/2025/01/09/temperatura/</loc>
+    <loc>http://localhost:63637/post/2025/01/09/temperatura/</loc>
     <lastmod>2025-01-09T13:22:40-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/categories/default/</loc>
+    <loc>http://localhost:63637/categories/default/</loc>
     <lastmod>2025-01-08T13:26:08-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/post/2025/01/08/enamoramiento/</loc>
+    <loc>http://localhost:63637/post/2025/01/08/enamoramiento/</loc>
     <lastmod>2025-01-08T13:26:08-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/tags/nuevo/</loc>
+    <loc>http://localhost:63637/tags/nuevo/</loc>
     <lastmod>2025-01-08T13:26:08-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/post/2025/01/08/lagrimas/</loc>
+    <loc>http://localhost:63637/post/2025/01/08/lagrimas/</loc>
     <lastmod>2025-01-08T12:30:50-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/post/2025/01/08/los-veinticuatro-escritos/</loc>
+    <loc>http://localhost:63637/post/2025/01/08/los-veinticuatro-escritos/</loc>
     <lastmod>2025-01-08T11:23:38-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/post/2024/12/18/un-segundo/</loc>
+    <loc>http://localhost:63637/post/2024/12/18/un-segundo/</loc>
     <lastmod>2024-12-18T14:36:49-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/tags/yost/</loc>
+    <loc>http://localhost:63637/tags/yost/</loc>
     <lastmod>2024-12-18T14:36:49-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/categoria/</loc>
+    <loc>http://localhost:63637/categoria/</loc>
     <lastmod>2024-12-17T13:16:18-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/categoria/rolitas/rolitas/</loc>
+    <loc>http://localhost:63637/categoria/rolitas/rolitas/</loc>
     <lastmod>2024-12-17T13:16:18-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/categoria/cabeza/mi-mente/</loc>
+    <loc>http://localhost:63637/categoria/cabeza/mi-mente/</loc>
     <lastmod>2024-12-17T12:37:49-06:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/tags/emilia/</loc>
+    <loc>http://localhost:63637/tags/emilia/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yostwest.com/post/2024/12/04/recuerdalo./</loc>
+    <loc>http://localhost:63637/post/2024/12/04/recuerdalo./</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>
