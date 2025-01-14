@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on yostwest</title>
-    <link>http://localhost:63637/tags/</link>
+    <link>http://localhost:63965/tags/</link>
     <description>Recent content in Tags on yostwest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jan 2025 12:31:21 -0600</lastBuildDate>
-    <atom:link href="http://localhost:63637/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63965/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Los24</title>
-      <link>http://localhost:63637/tags/los24/</link>
+      <link>http://localhost:63965/tags/los24/</link>
       <pubDate>Mon, 13 Jan 2025 12:31:21 -0600</pubDate>
-      <guid>http://localhost:63637/tags/los24/</guid>
+      <guid>http://localhost:63965/tags/los24/</guid>
       <description></description>
     </item>
     <item>
       <title>Nuevo</title>
-      <link>http://localhost:63637/tags/nuevo/</link>
+      <link>http://localhost:63965/tags/nuevo/</link>
       <pubDate>Wed, 08 Jan 2025 13:26:08 -0600</pubDate>
-      <guid>http://localhost:63637/tags/nuevo/</guid>
+      <guid>http://localhost:63965/tags/nuevo/</guid>
       <description></description>
     </item>
     <item>
       <title>Yost</title>
-      <link>http://localhost:63637/tags/yost/</link>
+      <link>http://localhost:63965/tags/yost/</link>
       <pubDate>Wed, 18 Dec 2024 14:36:49 -0600</pubDate>
-      <guid>http://localhost:63637/tags/yost/</guid>
+      <guid>http://localhost:63965/tags/yost/</guid>
       <description></description>
     </item>
     <item>
       <title>Emilia</title>
-      <link>http://localhost:63637/tags/emilia/</link>
+      <link>http://localhost:63965/tags/emilia/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63637/tags/emilia/</guid>
+      <guid>http://localhost:63965/tags/emilia/</guid>
       <description></description>
     </item>
   </channel>

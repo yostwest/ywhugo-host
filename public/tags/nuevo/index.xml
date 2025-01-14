@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nuevo on yostwest</title>
-    <link>http://localhost:63637/tags/nuevo/</link>
+    <link>http://localhost:63965/tags/nuevo/</link>
     <description>Recent content in Nuevo on yostwest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Jan 2025 13:26:08 -0600</lastBuildDate>
-    <atom:link href="http://localhost:63637/tags/nuevo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63965/tags/nuevo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enamoramiento</title>
-      <link>http://localhost:63637/post/2025/01/08/enamoramiento/</link>
+      <link>http://localhost:63965/post/2025/01/08/enamoramiento/</link>
       <pubDate>Wed, 08 Jan 2025 13:26:08 -0600</pubDate>
-      <guid>http://localhost:63637/post/2025/01/08/enamoramiento/</guid>
+      <guid>http://localhost:63965/post/2025/01/08/enamoramiento/</guid>
       <description></description>
     </item>
   </channel>
