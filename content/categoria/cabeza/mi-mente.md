@@ -9,3 +9,5 @@ title = 'Mi Mente'
 <img src="/images/retro90.gif" class="galeria-imagen" alt="Imagen 2">
 
 <img src="/images/retro90.gif" class="galeria-imagen" alt="Imagen 3">
+
+---
