@@ -1,8 +1,36 @@
 #pfpindex {
-  width: 300px;
-  height: 300px;
-  border: 2px solid #000;
-  box-shadow: 0 4px 8 px rgba(0, 0, 0, 0.1);
+  display: flex;
+  position: relative;
+  justify-content: center;  /* Centra horizontalmente */
+  align-items: center; 
+  max-width: 50%;           /* Controla el tamaño máximo de la imagen */
+  max-height: 50%;          /* Limita la altura de la imagen */
+  border: 5px solid #fff;  /* Borde blanco que resalta */
+  border-radius: 15px;     /* Bordes redondeados */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+  transition: all 0.3s ease;
+
+  margin-top: 5%;
+}
+
+#pfpindex:hover {
+  transform: scale(1.1);            /* Aumenta el tamaño de la imagen */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4); /* Sombra más intensa */
+  border-color: #03ff30;             /* Cambia el color del borde a un color cálido */
+  filter: brightness(1.2);
+}
+
+.galeria-imagen{
+  width: 200px;
+  border: 3px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+  
+  }
+
+.galeria-imagen:hover {
+    transform: scale(1.1);  /* Aumentar la imagen al hacer hover */
 }
 
 /* Dark mode */
@@ -11,7 +39,7 @@
     
 
     body {
-        background-color: #393E41;
+        background-color: #1f2e3f;
         color: white;
     }
 
@@ -20,7 +48,7 @@
     }
 
     a {
-      color: #EBC3DB;
+      color: #8ea7c5;
     }
 
     header {
@@ -30,8 +58,8 @@
     }
 
     .article-meta, .menu a {
-      background: #393E41;
-      color: white;
+      background: #1c334d;
+      color: #03ff30;
     }
 
     table {
@@ -49,6 +77,10 @@
 /* Light mode */
 @media (prefers-color-scheme: light) {
     
+  body {
+    background-color: #8ea7c5;
+    color: #1f2e3f;
+}
     
 
     blockquote {
@@ -56,16 +88,16 @@
     }
 
     a {
-      color: #613DC1;
+      color: #ffffff;
     }
 
     header {
-      background: #613DC1;
+      background: #ffffff;
     }
 
     .article-meta, .menu a {
-      background: #E8DBC5;
-      color: #000;
+      background: #1c334d;
+      color: #03ff30;
     }
 
     table {
@@ -162,7 +194,7 @@ header a {
 }
 header a:hover,
 header .current a {
-    color: #fff
+    color: #1f2e3f;
 }
 
 /* Code Boxes */
@@ -180,7 +212,7 @@ code {
   overflow-x: auto;
 }
 
-/* Images, tables, misc. */
+/* Images, tables, misc. 
 img, iframe, video {
   max-width: 100%;
   height: auto;
@@ -188,6 +220,7 @@ img, iframe, video {
   margin-left: auto;
   margin-right: auto;
 }
+*/
 
 main {
   hyphens: auto;

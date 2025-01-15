@@ -2,7 +2,7 @@
 date : '2024-12-18T14:36:49-06:00'
 
 title : 'Fácil, un segundo.'
-slug : "Un-segundo"
+slug : "un-segundo"
 categories:
     - Cartas
 tags: 
